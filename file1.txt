@@ -1,3 +1,4 @@
 first file 
 adding new information 
 "hello everyone" 
+"welcome to git" 
